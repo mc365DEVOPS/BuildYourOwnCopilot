@@ -10,7 +10,7 @@ This solution demonstrates many concepts developers will encounter when building
 - Performing vector searches on data in a database.
 - Generating completions from a large language model.
 - Managing conversational context and chat history.
-- Token management for large langage models.
+- Token management for large language models.
 - Managing data models for defining what data gets vectorized for search.
 - How to use Semantic Kernel SDK connectors and plug-ins.
 

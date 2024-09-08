@@ -4,7 +4,7 @@
 
 - Azure Subscription
 - Subscription access to Azure OpenAI service. Start here to [Request Access to Azure OpenAI Service](https://aka.ms/oaiapply)
-- .NET 7 SDK
+- .NET 8 SDK
 - Docker Desktop
 - Azure CLI ([v2.51.0 or greater](https://docs.microsoft.com/cli/azure/install-azure-cli))
 - [Helm 3.11.1 or greater](https://helm.sh/docs/intro/install/) (for AKS deployment)
