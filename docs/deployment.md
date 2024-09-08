@@ -6,7 +6,7 @@ Users can deploy this solution from three locations, local machine, virtual mach
 
 - Azure Subscription
 - Subscription access to Azure OpenAI service. Start here to [Request Access to Azure OpenAI Service](https://aka.ms/oaiapply)
-- .NET 7 SDK
+- .NET 8 SDK
 - Docker Desktop
 - Azure CLI ([v2.51.0 or greater](https://docs.microsoft.com/cli/azure/install-azure-cli))
 - Cross-platform (not Windows) PowerShell ([7.0 or greater](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell))
